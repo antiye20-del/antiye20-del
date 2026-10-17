@@ -11,7 +11,6 @@ I build robust, secure, and user-centric applications ranging from custom databa
 - **Frontend & UI:** Bootstrap, jQuery, DataTables, Jetpack Compose, XML View Binding
 - **Backend & Databases:** PHP (Custom Architecture & RESTful APIs), MySQL
 - **Android Development:** Kotlin, Android Studio, Firebase Analytics, MediaCodec, Custom App Updaters
-- **Tools & Systems:** Git/GitHub, Windows Systems Administration, simplewall, scrcpy, yt-dlp
 
 ---
 
@@ -26,13 +25,12 @@ I build robust, secure, and user-centric applications ranging from custom databa
 ### 🎓 Learning & Continuous Growth
 
 - 📱 Enrolled in the **5 Million Ethiopian Coders Initiative** (Android Kotlin Track)
-- 💡 Exploring computer science fundamentals through **Harvard CS50**
 
 ---
 
 ### 📫 Connect with Me
 
-- **Email:** [antiye20@gmail.com]
-- **phone:** [+251916107723]
-- 
+- **GitHub:** [antiye20-del](https://github.com/antiye20-del)
+- **Phone:** [+2519 1610 7723]
+
 > *"Building scalable systems and smooth user experiences, one line of code at a time."*
